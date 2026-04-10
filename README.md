@@ -27,8 +27,10 @@ Python-based automation tools developed to support the
 | Tool | File | Description |
 |---|---|---|
 | Complexity Scanner | `alteryx_complexity_scanner.py` | Scores workflows on 5 dimensions |
-| DB Connection Extractor | `db_connection_extractor.py` | Extracts all DB aliases & connection types |
-| Macro Dependency Scanner | `macro_dependency_scanner.py` | Deep scans macro usage across workflows |
+| Source Target Scanner | `source_target_scanner.py` | Scans source and target connections |
+| Log Frequency Analyzer | `Alteryx_log_frequency_analysis.py` | Analyzes workflow execution logs |
+| Gallery Extractor | `Alteryx_gallery_extract.py` | Extracts workflow list from Alteryx Gallery |
+| Server Details | `Alteryx_Server_details_MongoDB.py` | Fetches server metadata from MongoDB |
 
 ---
 
