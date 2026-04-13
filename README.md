@@ -1,9 +1,9 @@
 # alteryx-migration
-Python-based tools for Alteryx Server → Alteryx One migration. Includes complexity scanner, DB connection extractor &amp; macro dependency scanner.
+Python-based tools for Alteryx Server → Databricks migration. Includes complexity scanner, DB connection extractor &amp; macro dependency scanner.
 # 🔄 Alteryx Migration Tools
 
 Python-based automation tools developed to support the 
-**Alteryx Server → Alteryx One** migration project at enterprise scale.
+**Alteryx Server → Databricks** migration project at enterprise scale.
 
 ---
 
@@ -17,7 +17,7 @@ Python-based automation tools developed to support the
 ## 🛠️ Tech Stack
 - **Language:** Python
 - **Libraries:** xml.etree.ElementTree, os, openpyxl, pandas
-- **Platform:** Alteryx Server, Alteryx One
+- **Platform:** Alteryx Server, Databricks
 - **Output:** Excel Reports (.xlsx)
 
 ---
